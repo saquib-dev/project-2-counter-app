@@ -55,7 +55,7 @@ npm install
 
 ### **4. Start the server**
 
-Launch the server with the following command. It will run on `http://localhost:786`.
+Launch the server with the following command. It will run on `http://localhost:3000`.
 
 ```bash
 npm start
@@ -64,6 +64,6 @@ npm start
 ### **Open your web browser and navigate to**
 
 ```bash
-http://localhost:786
+http://localhost:3000
 ```
 You will see the counter app in your browser, and you can now interact with it!
