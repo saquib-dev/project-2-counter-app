@@ -4,8 +4,8 @@ This is a simple full-stack application that demonstrates a basic interaction be
 
 ## Features
 
--   **Frontend:** A clean and simple user interface built with HTML, CSS, and vanilla JavaScript. `HTML` `CSS` `JavaScript`
--   **Backend:** A lightweight API created with Node.js and the Express.js framework to handle counter data. `Node.js` `Express.js`
+-   **Frontend:** A clean and simple user interface built with `HTML`, `CSS`, and vanilla `JavaScript`.
+-   **Backend:** A lightweight API created with `Node.js` and the `Express.js` framework to handle counter data.
 -   **RESTful API:** Uses `GET` and `POST` endpoints to retrieve and update the counter value.
 -   **In-Memory Storage:** The counter value is stored in the server's memory, making it easy to understand the core logic without a database.
 
