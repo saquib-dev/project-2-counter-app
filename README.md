@@ -8,9 +8,6 @@ This is a simple full-stack application that demonstrates a basic interaction be
 -   **Backend:** A lightweight API created with Node.js and the Express.js framework to handle counter data.
 -   **RESTful API:** Uses `GET` and `POST` endpoints to retrieve and update the counter value.
 -   **In-Memory Storage:** The counter value is stored in the server's memory, making it easy to understand the core logic without a database.
-
-## Technologies Used
-
 -   **Frontend:** HTML, CSS, JavaScript
 -   **Backend:** Node.js, Express.js
 
